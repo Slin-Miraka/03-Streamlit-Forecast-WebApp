@@ -6,3 +6,4 @@ fastai
 keras
 matplotlib
 sklearn
+tensorflow
